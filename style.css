@@ -1,0 +1,22 @@
+body {
+    font-family: 'Lobster';
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.name-edit {
+    color: orange;
+}
+
+.container {
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 3%;
+}
+
+.container img {
+    width: 90%;
+}
